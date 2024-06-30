@@ -1,0 +1,19 @@
+{
+  "name": "fetch-json-placeholder",
+  "version": "1.0.0",
+  "description": "a plugin that request json placeholder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckwhisler/npm-plugin.git"
+  },
+  "author": "Shayan Nadeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuckwhisler/npm-plugin/issues"
+  },
+  "homepage": "https://github.com/chuckwhisler/npm-plugin#readme"
+}
